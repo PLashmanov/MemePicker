@@ -29,7 +29,7 @@ h3{
 /* layout */
 
 header{
-    background-color: #67595E;
+    background-color: royalblue;
 }
 
 .header-inner{
@@ -41,8 +41,8 @@ header{
     padding: 10px 0 0 0;
 }
 
-.pumpkin-img{
-    width: 80px;
+.plusha-img{
+    width: 100px;
 }
 
 .controls-container{
@@ -102,8 +102,8 @@ input[type="radio"]{
 }
 
 .get-image-btn{
-    background-color: #67595e;
-    color: #eed6d3;
+    background-color: royalblue;
+    color: rgb(39, 30, 30);
     padding: 15px 19px;
     font-size: 24px;
     border: none;
